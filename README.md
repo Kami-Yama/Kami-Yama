@@ -8,7 +8,7 @@
 
 3. Costantly learning new stuff about IT
 
-4. Currently studying Information Technology (IT) at Valdagno (IIS Marzotto-Luzzati, 5th year)
+4. Currently studying Information Technology (IT) in Valdagno, Italy (IIS Marzotto-Luzzati, 5th year)
 
 - `My knowledge`
 
