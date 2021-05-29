@@ -20,5 +20,5 @@
 
 Still and Continuously learning new Stuff for improving my code and my general knowledge.
 
-You can get in contact with me via my e-mail : *nicolocornale.es@gmail.com*
+You can get in contact with me via my e-mail : *kamiyamadev@gmail.com*
 
