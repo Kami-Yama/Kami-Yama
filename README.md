@@ -1,4 +1,4 @@
-- Hi! My online name is `Kami-Yama` and I am a Developer (good or bad is up to you)
+Hi! My online name is `Kami-Yama` and I am a Developer (good or bad is up to you)
 
 - `Current activities`:
 
