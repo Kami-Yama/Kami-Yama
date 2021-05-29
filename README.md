@@ -12,7 +12,7 @@
 
 - `My knowledge`
 
-1. Experience in **Standard Web Developing**, using HTML, CSS, JavaScript, PHP and SQL. I'm better as a Back-End Developer, I have yet to learn Angular, React and Node.js. They are on my bucket list
+1. Experience in **Standard Web Developing**, using HTML, CSS, JavaScript, PHP and SQL. I'm better as a Back-End Developer, as I have yet to learn Angular, React and Node.js. They are on my bucket list though
 
 2. Experience in **Software Developing**, using C#, Java, C++, C. I have yet to learn using C++ in a good way. I am the most confident with C#, but I'm eager to learn Python and a lot more
 
