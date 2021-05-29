@@ -4,7 +4,7 @@
 
 1. Managing the dev work in the Minecraft server of **KibeliusDaVivere**.
 
-2. Studying Japanese in the free time (i'm really busy with studies in this
+2. Studying Japanese in the free time
 
 3. Costantly learning new stuff about IT
 
