@@ -18,6 +18,17 @@
 
 3. Experience in Cryptography and Networks. I have successfully pursued the Cisco Networking Academy course and I've studied the most relevant aspects of Cryptography and Cyber Security (Cripthography algorithms, simmetric algrorithms, assymetric algorithms, key interchange etc...)
 
+- `Bucket List`
+
+1. Angular, React and Node.js
+
+2. Python programming language
+
+3. Improve My C++ knowledge
+
+4. java.swing and other graphical libraries for Java
+
+
 Still and Continuously learning new Stuff for improving my code and my general knowledge.
 
 You can get in contact with me via my e-mail : *kamiyamadev@gmail.com*
