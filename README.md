@@ -20,7 +20,7 @@ Hi! My online name is `Kami-Yama` and I am a Developer (good or bad is up to you
 
 4. Basic Usage of Unity Engine.
 
-- `Bucket List`
+- `Learning List`
 
 1. Angular, React and Node.js
 
