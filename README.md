@@ -2,7 +2,7 @@ Hi! My online name is `Kami-Yama` and I am a Developer (good or bad is up to you
 
 - `Current activities`:
 
-1. Managing the dev work in the Minecraft server of **KibeliusDaVivere**.
+1. Managing the dev work in the Minecraft server of **Kibelius**.
 
 2. Studying Japanese in the free time
 
