@@ -2,13 +2,11 @@ Hi! My online name is `Kami-Yama` and I am a Developer (good or bad is up to you
 
 - `Current activities`:
 
-1. Managing the dev work in the Minecraft server of **Kibelius**.
+1. Studying Japanese in the free time
 
-2. Studying Japanese in the free time
+2. Costantly learning new stuff about IT
 
-3. Costantly learning new stuff about IT
-
-4. Currently studying Information Technology (IT) in Valdagno, Italy (IIS Marzotto-Luzzati, 5th year)
+3. Currently studying Information Technology (IT) in Valdagno, Italy (IIS Marzotto-Luzzati, 5th year)
 
 - `My knowledge`
 
