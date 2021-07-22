@@ -6,8 +6,6 @@ Hi! My online name is `Kami-Yama` and I am a Developer (good or bad is up to you
 
 2. Costantly learning new stuff about IT
 
-3. Currently studying Information Technology (IT) in Valdagno, Italy (IIS Marzotto-Luzzati, 5th year)
-
 - `My knowledge`
 
 1. Experience in **Standard Web Developing**, using HTML, CSS, JavaScript, PHP and SQL. I'm better as a Back-End Developer, as I have yet to learn Angular, React and Node.js. They are on my bucket list though
