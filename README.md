@@ -24,8 +24,6 @@ Hi! My online name is `Kami-Yama` and I am a Developer (good or bad is up to you
 
 3. Improve My C++ knowledge
 
-4. java.swing and other graphical libraries for Java
-
 
 Still and Continuously learning new Stuff for improving my code and my general knowledge.
 
